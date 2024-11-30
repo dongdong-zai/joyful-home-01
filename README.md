@@ -21,8 +21,10 @@
 
 # 截图预览
 用户端
-![输入图片说明](%E6%88%AA%E5%9B%BE/%E5%90%881.jpg)
-![输入图片说明](%E6%88%AA%E5%9B%BE/%E5%90%882.jpg)
+![合1](https://github.com/user-attachments/assets/3432951f-71bb-4790-824a-53b249ebc908)
+
+![合2](https://github.com/user-attachments/assets/7ce705b7-35be-4ab4-afe3-c727e52ccde4)
+
 
 管理运营端
-![输入图片说明](%E6%88%AA%E5%9B%BE/%E6%8A%80%E5%B8%88%E5%88%97%E8%A1%A8.jpg)
+![技师列表](https://github.com/user-attachments/assets/9d81a295-3c5c-4d45-beb3-a8df6423f0fb)
